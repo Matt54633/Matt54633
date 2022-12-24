@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Matts's GitHub stats](https://github-readme-stats.vercel.app/api?username=matt54633)](https://github.com/matt54633/github-readme-stats)
+
 
 <!--
 **Matt54633/matt54633** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
